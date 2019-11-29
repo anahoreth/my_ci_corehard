@@ -5,4 +5,4 @@ script:
   - cmake ..
   - cmake --build .
   - cd Debug/
-  - hello.exe
+  - ./hello
