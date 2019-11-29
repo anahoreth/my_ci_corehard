@@ -1,0 +1,5 @@
+D:/Работа/corehard/my/my_ci_corehard/build/CMakeFiles/hello.dir
+D:/Работа/corehard/my/my_ci_corehard/build/CMakeFiles/hello_example.dir
+D:/Работа/corehard/my/my_ci_corehard/build/CMakeFiles/test_hello.dir
+D:/Работа/corehard/my/my_ci_corehard/build/CMakeFiles/ALL_BUILD.dir
+D:/Работа/corehard/my/my_ci_corehard/build/CMakeFiles/ZERO_CHECK.dir
