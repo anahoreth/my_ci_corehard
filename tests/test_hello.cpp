@@ -7,5 +7,5 @@
 TEST(hello, greetings) {
     std::stringstream ss;
     hello::greetings(ss);
-    //ASSERT_FALSE(ss.str().empty());
+    ASSERT_FALSE(ss.str().empty());
 }
